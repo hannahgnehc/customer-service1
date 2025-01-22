@@ -1,0 +1,129 @@
+{
+  "version": "3.87.32265.0",
+  "course_id": "5ehzkLMp71k",
+  "title": "customer service mission",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Mission"
+    },
+    {
+      "title": "Exceptional TIPS"
+    },
+    {
+      "title": "Active Listening"
+    },
+    {
+      "title": "Not Listening Example"
+    },
+    {
+      "title": "Tones"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5zCeDiymraJ",
+      "title": "Mission Statement",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6TFByGXOrjl",
+      "title": "Mission Statement",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5mkBZtMOAn3",
+      "title": "Mission Statement",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6LClXzsNHDs",
+      "title": "Tips/Tricks Main",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5YOvsX8TAoc",
+      "title": "1 Know your product",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "65fBfkUbet2",
+      "title": "3 respond quickly",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5VsBRkubpKf",
+      "title": "4. personalize service",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5dXkoOacBMb",
+      "title": "5. focus on customer",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6ndiUm4KkbC",
+      "title": "2 Maintain positivity",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5qTouLl8rCB",
+      "title": "6. active listening",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5iicDhNUGaz",
+      "title": "7. follow up",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6Mbu700uQ11",
+      "title": "8. proactive",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "6r75zuhpJ6X",
+      "title": "Customer Service example",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6SqOVEQRLLs",
+      "title": "Explanation",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6K7vt0oSbNX",
+      "title": "Explanation",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5duRfE6SIva",
+      "title": "Untitled Slide",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6pMnPtYjllS",
+      "title": "Video",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6T7W0avcnZe",
+      "title": "Untitled Slide",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6fgmbD2ueRW",
+      "title": "Untitled Slide",
+      "scene_index": "5.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
